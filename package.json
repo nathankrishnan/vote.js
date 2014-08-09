@@ -1,0 +1,29 @@
+{
+  "name": "vote.js",
+  "version": "0.0.1",
+  "description": "A real-time SMS and voice voting application using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathankrishnan/vote.js.git"
+  },
+  "keywords": [
+    "vote",
+    "node.js",
+    "javascript",
+    "sms",
+    "voting"
+  ],
+  "author": "Nathan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/nathankrishnan/vote.js/issues"
+  },
+  "dependencies": {
+    "hapi": "~6.4.0",
+    "twilio": "~1.6.0"
+  }
+}
